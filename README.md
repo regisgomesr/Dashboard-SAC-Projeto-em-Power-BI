@@ -1,3 +1,6 @@
+<img width="905" height="490" alt="IMG - DASHBOARD SAC" src="https://github.com/user-attachments/assets/7a0c16b5-cf91-4b3a-b8f4-ffd5cc5557fd" />
+
+
 # 📊 Dashboard SAC — Primeiro Projeto em Power BI
 
 ## Sobre o projeto
